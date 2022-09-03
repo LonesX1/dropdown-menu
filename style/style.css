@@ -124,7 +124,6 @@ header {
     justify-content: center;
     align-items: center;
     transition: 0.3s;
-    margin-left: 10px;
     cursor: pointer;
 }
 .fa-magnifying-glass:hover {

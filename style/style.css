@@ -115,16 +115,17 @@ header {
     padding: 10px;
     font-size: 20px;
 }
-.fa-magnifying-glass {
+.search-panel .fa-magnifying-glass {
     font-size: 20px;
     border-radius: 50%;
     width: 30px;
     height: 30px;
+    transition: 0.3s;
+    cursor: pointer;
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: 0.3s;
-    cursor: pointer;
+
 }
 .fa-magnifying-glass:hover {
     background: rgba(0, 0, 0, 0.178);
